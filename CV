@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CV</title>
+</head>
+</html>
+    <header>
+        <h1>Dea Olivia</h1>
+        <p>Mahasiswa | Tutors | Guru Privat</p>
+        <h2>Tentang Saya</h2>
+        <p>Saya adalah seorang mahasiswa Bisnis Digital</p>
+        <h2>Pendidikan</h2>
+        <ul>
+            <li>Mahasiswa Bisnis DIgital-Institut Teknologi dan Bisnis Sabda</li>
+            <li>Jurusan IPS-SMA Panca Setya (2020-2023)</li>
+        </ul>
+        <h2>Pengalaman Kerja</h2>
+        <ul>
+            <li>Tutors-Focus Bimbel(2024-Sekarang</li>
+        </ul>
+        <h2>Keahlian</h2>
+        <ul>
+            <li>Bahasa Inggris</li>
+            <li>Bahasa Mandarin</li>
+            <li>HTML</li>
+        </ul>
+        <h2>Kontak</h2>
+        <p>Email: deaoliviaa19@gmail.com<br>LinkedIn: linkedin.com/in/deaolivia<br>GitHub: github.com/deaoliviaaa</br></p>
+
+        
