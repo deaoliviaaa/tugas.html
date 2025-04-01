@@ -2,31 +2,122 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>CV</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Dea Olivia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2980b9;
+            margin-top: 20px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 25px 0;
+            box-shadow: 0 2px 3px rgba(0,0,0,0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    </style>
 </head>
-</html>
+<body>
     <header>
         <h1>Dea Olivia</h1>
-        <p>Mahasiswa | Tutors | Guru Privat</p>
+        <p>Mahasiswa | Tutor | Guru Privat</p>
+        
         <h2>Tentang Saya</h2>
-        <p>Saya adalah seorang mahasiswa Bisnis Digital</p>
+        <p>Saya adalah seorang mahasiswa aktif program Bisnis Digital yang berkomitmen untuk mengembangkan keterampilan digital dan bisnis.</p>
+        
         <h2>Pendidikan</h2>
         <ul>
-            <li>Mahasiswa Bisnis DIgital-Institut Teknologi dan Bisnis Sabda</li>
-            <li>Jurusan IPS-SMA Panca Setya (2020-2023)</li>
+            <li><strong>Institut Teknologi dan Bisnis Sabda</strong> - Bisnis Digital (2024-Sekarang)</li>
+            <li><strong>SMA Panca Setya</strong> - Jurusan IPS (2020-2023)</li>
         </ul>
+        
         <h2>Pengalaman Kerja</h2>
         <ul>
-            <li>Tutors-Focus Bimbel(2024-Sekarang</li>
+            <li><strong>Focus Bimbel</strong> - Tutor (2024-Sekarang)</li>
         </ul>
+        
         <h2>Keahlian</h2>
         <ul>
-            <li>Bahasa Inggris</li>
-            <li>Bahasa Mandarin</li>
-            <li>HTML</li>
+            <li>Bahasa Inggris (Aktif)</li>
+            <li>Bahasa Mandarin (Menengah)</li>
+            <li>Pengembangan Web Dasar (HTML)</li>
         </ul>
-        <h2>Kontak</h2>
-        <p>Email: deaoliviaa19@gmail.com<br>LinkedIn: linkedin.com/in/deaolivia<br>GitHub: github.com/deaoliviaaa</br></p>
-
         
+        <h2>Kontak</h2>
+        <p>
+            📧 Email: deaoliviaa19@gmail.com<br>
+            🔗 LinkedIn: linkedin.com/in/deaolivia<br>
+            💻 GitHub: github.com/deaoliviaaa
+        </p>
+        
+        <h2>Jadwal Kuliah Semester Ini</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Shift/Hari</th>
+                    <th>Senin</th>
+                    <th>Selasa</th>
+                    <th>Rabu</th>
+                    <th>Kamis</th>
+                    <th>Jumat</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Shift 1<br>(08:00-09:40)</strong></td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>Pemrograman Web Dasar</td>
+                    <td>-</td>
+                    <td>Statistika Bisnis</td>
+                </tr>
+                <tr>
+                    <td><strong>Shift 2<br>(09:50-11:30)</strong></td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>Microeconomics</td>
+                    <td>Prinsip-prinsip Akuntansi</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td><strong>Shift 3<br>(12:30-14:10)</strong></td>
+                    <td>Sistem Basis Data</td>
+                    <td>Brand & Social Media</td>
+                    <td>Hukum Bisnis</td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <div style="text-align: center; margin-top: 30px; color: #7f8c8d;">
+            <strong>Institut Teknologi dan Bisnis Sabda Setia</strong><br>
+            Program Studi Bisnis Digital
+        </div>
+    </header>
+</body>
+</html>
